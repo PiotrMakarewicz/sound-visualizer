@@ -33,3 +33,4 @@ sudo apt-get install libasound2-dev libasound2
 Blog” autorstwa Patricka Louisa - https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html
 - *Sound Programming: Alsa Tutorial* - https://soundprogramming.net/programming/alsa-tutorial-1-initialization/
 - *A Tutorial on Using the ALSA Audio API* - http://equalarea.com/paul/alsa-audio.html
+- https://gist.github.com/albanpeignier/104902
